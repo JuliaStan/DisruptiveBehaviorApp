@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bop Game</string>
+    <string name="mood_choice">How are you feeling?</string>
+    <string name="lost">I DON\'T KNOW</string>
+</resources>
