@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bop Game</string>
+    <string name="mood_choice">How are you feeling?</string>
+    <string name="lost">I DON\'T KNOW</string>
+    <string name="goToStatistics">See the Statistics</string>
+    <string name="stats">Here you\'re statistics will be displayed.</string>
+    <string name="angry">Angry face icon</string>
+    <string name="happy">Happy face icon</string>
+    <string name="disturbed">Disturbed face icon</string>
+    <string name="neutral">Neutral face icon</string>
+    <string name="sad">Sad face icon</string>
+</resources>
